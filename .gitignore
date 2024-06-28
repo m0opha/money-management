@@ -1,0 +1,15 @@
+.idea/
+*.iml
+
+/data/
+/data/*
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+ENV/
+env/
+.env/
+.venv/
